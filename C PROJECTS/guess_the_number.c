@@ -1,26 +1,27 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 
 // time complexity of this program is O(1)
 
 int main()
 {
-    // initializing all the variables used
-    int number = 0;
-    int replay = 1;
-    int guess = 0, score = 100, gameover = 0, nguesses = 0;
-    int game_over_checker = 1;
+    // these are all the variables used in the code
+    int guess = 0, score = 100, gameover = 0, nguesses = 0, replay = 1, number = 0, game_over_checker = 1;
+
+    // declaring srand before the loop to make it generate a new number every time
+    srand(time(NULL));
 
     // checking if replay is equal to 1
     while (replay == 1)
     {
+
+        // generating a random number everytime the user replays
+        number = rand() % 100 + 1;
+
         // running the code atleast once
         do
         {
-            // generating a random number
-            srand(0);
-            number = rand() % 100 + 1;
-
             // asking for the user input
             printf("Guess the number (between 1 - 100)\n");
 
@@ -62,24 +63,24 @@ int main()
             score--;
             nguesses++;
 
-            // making sure that if "game_over_checker" is equal to ten
-            if (game_over_checker == 10)
+            // re initializing the game_over_checker for the given possibilities
+            if (game_over_checker == 10 || guess == number)
             {
                 gameover = 1;
             }
 
-            // setting gameover to zero when input is correct to exit the loop
-            if (guess == number)
+            // printing why the game exited after reaching the limit
+            if (game_over_checker == 10)
             {
-                gameover = 1;
+                printf("You tried guessing the number ten times. You can replay if you want.\n");
             }
 
         } while (!gameover);
 
         // printing the stats after the number was guessed or the loop was exited
-        if (guess == number || gameover == 10)
+        if (guess == number || game_over_checker == 10)
         {
-            printf("Tries : %d \t Score : %d \n", nguesses, score);
+            printf("Tries : %d \t Score : %d \t The number was: %d \n", nguesses, score, number);
         }
 
         // asking for replay
@@ -110,6 +111,7 @@ int main()
         // re initializing everything when the user agrees on replay
         if (replay == 1)
         {
+            game_over_checker = 1;
             gameover = 0;
             score = 100;
             nguesses = 0;
