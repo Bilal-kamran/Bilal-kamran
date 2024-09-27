@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @Bilal-kamran
-- 👀 I’m interested in programming and other adventures related to the feild of computer.
-- 🌱 I’m currently learning C language as a startup, I am looking forward start a project like a game or something related to operating systems, networking etc.
-- 💞️ I’m looking to collaborate on some opensource projects with the skills I learn, most likely I will be contributing in projects that use C as I am currently learning it.
-- 📫 You can reach me through my email or through any of my social media accounts, I have not mentioned any contact method yet but I will as soon as I can manage to. I also have other accounts such as on instagram etc, I am most likely going to provide my community with a discord server for communication purposes.
-- 😄 Pronouns: he/him
+💫 About Me:
 
-<!---
-Bilal-kamran/Bilal-kamran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working on: A calculator project using GTK 4.0 or later.
+
+👯 I’m looking to collaborate on: Open-source projects related to operating systems, networking, and cyber security.
+
+🤝 I’m looking for help with: Advanced C programming and assembly language projects.
+
+🌱 I’m currently learning: C, x86-64 assembly, and 2D/3D art using Blender, Photoshop, Illustrator, Clip Studio Paint, Krita, and GIMP.
+
+💬 Ask me about: Programming, computer science, engineering, physics, and chemistry.
+
+⚡ Fun fact: I love drawing and creating art in my free time!
+
+💻 Tech Stack:
+C C++ AssemblyScript Adobe Adobe Illustrator Adobe Photoshop Blender Gimp Inkscape Krita GitHub Git Docker
