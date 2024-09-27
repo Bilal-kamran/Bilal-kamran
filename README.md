@@ -1,16 +1,54 @@
-💫 About Me:
+# Profile README
 
-🔭 I’m currently working on: A calculator project using GTK 4.0 or later.
+Welcome to my GitHub profile! This document provides an overview of my skills, interests, and ongoing projects.
 
-👯 I’m looking to collaborate on: Open-source projects related to operating systems, networking, and cyber security.
+## About Me
 
-🤝 I’m looking for help with: Advanced C programming and assembly language projects.
+### Programming Knowledge
+- **C Language**: Currently learning and applying C in various projects, enhancing my understanding of system-level programming.
+- **Assembly Language**: Started with x86-64 assembly, which has given me a strong foundation in low-level programming and a deeper appreciation for how computers work at the hardware level.
+- **C++**: Familiar with C++ and its applications, particularly in system programming and performance-critical applications.
+- **GUI Development**: Working on a calculator project using GTK 4.0 or later, which involves creating user-friendly graphical interfaces.
+- **Open-Source Development**: Passionate about contributing to open-source projects and ensuring that my work remains freely available to the community. I believe in the power of collaboration and the open-source ethos.
 
-🌱 I’m currently learning: C, x86-64 assembly, and 2D/3D art using Blender, Photoshop, Illustrator, Clip Studio Paint, Krita, and GIMP.
+### Technical Interests
+- **Operating Systems**: Enthusiastic about understanding and developing operating systems, from kernel development to user-space applications.
+- **Networking**: Keen interest in networking protocols and technologies, including how data is transmitted and received across networks.
+- **Cyber Security**: Exploring various aspects of cyber security, from securing systems and networks to understanding vulnerabilities and threat mitigation.
+- **Computer Science**: Broad interest in computer science topics, including algorithms, data structures, and computational theory.
+- **Engineering**: Fascinated by different engineering disciplines, including electrical engineering and mechanical engineering, and how they intersect with computer science.
+- **Physics and Chemistry**: Enjoys learning about and applying principles from physics and chemistry, particularly in the context of engineering and technology.
 
-💬 Ask me about: Programming, computer science, engineering, physics, and chemistry.
+### Artistic Pursuits
+- **Drawing**: Enjoys drawing and creating art, which provides a creative outlet and complements my technical skills.
+- **2D and 3D Art and Animation**: Currently learning tools like Blender, Photoshop (PS), Illustrator (ILL), Clip Studio Paint (CSP), Krita, and GIMP. These tools help me create both 2D and 3D art and animations, adding a visual dimension to my projects.
 
-⚡ Fun fact: I love drawing and creating art in my free time!
+## Project Overview
 
-💻 Tech Stack:
-C C++ AssemblyScript Adobe Adobe Illustrator Adobe Photoshop Blender Gimp Inkscape Krita GitHub Git Docker
+This profile showcases my journey and projects in the world of programming and technology. I am committed to developing innovative solutions and leveraging the latest technologies to achieve my goals. My projects range from system-level programming to graphical user interfaces, and I am always looking for new challenges and opportunities to learn.
+
+## Contributing
+
+I welcome contributions from the community. Please read my CONTRIBUTING.md file for guidelines on how to contribute. Collaboration is key to innovation, and I am excited to work with others who share my passion for technology and open-source development.
+
+## Contact
+
+For any questions or inquiries, please contact me at [Your Email].
+
+Thank you for visiting my profile and supporting my projects!
+
+---
+
+## Tech Stack
+
+!C
+!C++
+!Assembly
+!Blender
+!Photoshop
+!Illustrator
+!Krita
+!GIMP
+!GitHub
+!Git
+!Docker
