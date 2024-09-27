@@ -41,14 +41,15 @@ Thank you for visiting my profile and supporting my projects!
 
 ## Tech Stack
 
-!C
-!C++
-!Assembly
-!Blender
-!Photoshop
-!Illustrator
-!Krita
-!GIMP
-!GitHub
-!Git
-!Docker
+C
+C++
+Assembly
+Blender
+Photoshop
+Illustrator
+Krita
+GIMP
+GitHub
+Git
+Docker
+Clip Studio Paint
