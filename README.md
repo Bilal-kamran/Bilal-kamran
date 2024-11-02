@@ -34,6 +34,7 @@ I welcome contributions from the community. Please read my CONTRIBUTING.md file 
 ## Contact
 
 For any questions or inquiries, please contact me at.
+I currently am not providing any contact info, but I will in the future.
 
 Thank you for visiting my profile and supporting my projects!
 
