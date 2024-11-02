@@ -33,7 +33,7 @@ I welcome contributions from the community. Please read my CONTRIBUTING.md file 
 
 ## Contact
 
-For any questions or inquiries, please contact me at [Your Email].
+For any questions or inquiries, please contact me at.
 
 Thank you for visiting my profile and supporting my projects!
 
