@@ -7,7 +7,7 @@ Welcome to my GitHub profile! This document provides an overview of my skills, i
 ### Programming Knowledge
 - **C Language**: Currently learning and applying C in various projects, enhancing my understanding of system-level programming.
 - **Assembly Language**: Started with x86-64 assembly, which has given me a strong foundation in low-level programming and a deeper appreciation for how computers work at the hardware level.
-- **C++**: Familiar with C++ and its applications, particularly in system programming and performance-critical applications.
+- **C++**: Familiar with C++ and its applications, as I know C alot.
 - **GUI Development**: Working on a calculator project using GTK 4.0 or later, which involves creating user-friendly graphical interfaces.
 - **Open-Source Development**: Passionate about contributing to open-source projects and ensuring that my work remains freely available to the community. I believe in the power of collaboration and the open-source ethos.
 
@@ -34,23 +34,6 @@ I welcome contributions from the community. Please read my CONTRIBUTING.md file 
 ## Contact
 
 For any questions or inquiries, please contact me at.
-I currently am not providing any contact info, but I will in the future.
+I am currently not providing any contact info, but I will in the future.
 
-Thank you for visiting my profile and supporting my projects!
-
----
-
-## Tech Stack
-
-C
-C++
-Assembly
-Blender
-Photoshop
-Illustrator
-Krita
-GIMP
-GitHub
-Git
-Docker
-Clip Studio Paint
+Thank you for visiting my profile and supporting my projects
